@@ -71,6 +71,7 @@ The model can classify the following classes:
 \* `app.py` - FastAPI application
 
 \* `cifar10\_resnet18.pth` - Trained ResNet18 model
+Model download: https://drive.google.com/file/d/1VhWuh3O9_XTJhpo4pBme5iPtvDAwcn6P/view?usp=sharing
 
 \* `requirements.txt` - Python dependencies
 
